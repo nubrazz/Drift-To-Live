@@ -16,6 +16,8 @@
 **Sketchfab**
   - [Straight Design](https://sketchfab.com/3d-models/low-poly-car-93971323324243468f24d7da9d18f617)
   - [ArtyomOganesyan](https://sketchfab.com/3d-models/simple-low-poly-cars-pack-free-3ae4b6b79f0b468c9bc719081872164d)
+  - [gunduzhan](https://sketchfab.com/3d-models/nuka-cola-vending-machine-d67e3f3d1bdd4a4e8b63c489cd55a5fc)
+  - [Leandro Dotta](https://sketchfab.com/3d-models/low-poly-vehicle-barrier-c8f8615cd51e4488b281cbae169f6c22)
 
 
 ### Music
